@@ -1,5 +1,8 @@
 # Changelog (journal des décisions)
 
+## 2024-5-6
+[AG constitutive](./AG-constitutive.md)
+
 ## 2024-4-2
 
 Création de l'asso :
