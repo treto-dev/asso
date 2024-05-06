@@ -12,7 +12,7 @@ L'association a des activités commerciales.
 
 ## Siège social
 
-Bordeaux (33800)
+39 rue Hippolyte Minier, Bordeaux (33800)
 
 ## Objet
 
