@@ -1,5 +1,13 @@
 # Changelog (journal des décisions)
 
+## 2024-5-17
+
+Inscription sur Solidatech :
+1. Remplissage du formulaire sur https://www.solidatech.fr/
+1. Envoi des statuts signés + email suite à l'inscription
+
+Demande en attente d'acceptation
+
 ## 2024-5-16
 Recepissé création déposé sur https://service-public.fr
 
