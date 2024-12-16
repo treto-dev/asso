@@ -7,7 +7,8 @@ Personnes présentes :
 * Lucie LAPORTE
 * Fabien LE FRAPPER
 
-L'assemblée générale désigne Mme. LAPORTE Lucie en qualité de présidente de séance et M. LE FRAPPER Fabien en qualité de secrétaire de séance. \nLa présidente de séance rappelle que l'assemblée générale constitutive est appelée à statuer sur l'ordre du jour suivant :
+L'assemblée générale désigne Mme. LAPORTE Lucie en qualité de présidente de séance et M. LE FRAPPER Fabien en qualité de secrétaire de séance. 
+La présidente de séance rappelle que l'assemblée générale constitutive est appelée à statuer sur l'ordre du jour suivant :
 
 
 1. Création de l'association
@@ -39,4 +40,5 @@ Le conseil d'administration se compose comme suit :
 
 Fait à Bordeaux, le 6 mai 2024
 
-**Signatures**\nPrésidente de séance                                Secrétaire de séance
+**Signatures** 
+Présidente de séance                                Secrétaire de séance
