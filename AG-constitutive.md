@@ -28,7 +28,8 @@ Après discussion, les statuts sont adoptés à l'unanimité.
 
 La présidente de séance rappelle la composition de la direction collégiale : conformément à l'article *Membres > Composition initiale* des statuts, la direction collégiale est composée des membres fondateurs élus par l'assemblée générale.
 
-Après rappel de ces dispositions, il est procédé à l'élection des membres. \nLe vote est exprimé comme suit : (Enumération des noms et prénoms des élus et du nombre de suffrages obtenus par chacun d'eux) Noms, Prénom, Nombre de voix obtenues
+Après rappel de ces dispositions, il est procédé à l'élection des membres. 
+Le vote est exprimé comme suit : (Enumération des noms et prénoms des élus et du nombre de suffrages obtenus par chacun d'eux) Noms, Prénom, Nombre de voix obtenues
 
 Le conseil d'administration se compose comme suit :
 
