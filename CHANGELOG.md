@@ -1,5 +1,48 @@
 # Changelog (journal des décisions)
 
+## 2025-07-02
+
+**Première tentative de salaire. 🎉**  
+
+- Voir https://www.service-public.fr/particuliers/vosdroits/F1927 pour la rémunération d'un dirigeant d'association.   
+- Et https://www.service-public.fr/particuliers/vosdroits/F766 pour le fonctionnement du CEA. 
+
+
+Là on a déclaré 75% d'un SMIC, donc 1351 euros pour 113 heures. 
+
+**En bref :**
+- Rester en deca de 75% (3/4) d'un SMIC pour se rémunérer, histoire de pas basculer dans un autre mode d'association 
+- Créer un volet social en fin de mois où on déclare le nombre d'heures travaillées et la rémunération souhaitée
+- Le CEA s'occupe du reste (pour le moment on a pas encore fait le virement)
+
+
+**En images**
+
+![](./medias/volet-social-1.png)
+![](./medias/volet-social-2.png)
+![](./medias/volet-social-3.png)
+![](./medias/volet-social-4.png)
+
+## 2025-04-24
+
+Première tentative de création d'un salarié (Fabien), j'avais fait une erreur et m'étais déclaré salarié au lieu de dirigeant.
+Ca a un peu mis le bazar, mais on a contacté l'URSSAF via l'espace Contacts du CEA.
+
+Réponse en moins de 24h, et la situation a été corrigée directement.
+
+Impressionnant d'efficacité 😎
+
+
+## 2025-04-10
+
+Adhésion au CEA finalisée, après avoir créé un compte Qonto.
+
+Process pas forcément clair, surtout sur la déclaration de la périodicité du travail.
+Cf ci-dessous, on a déclaré 0h/mois comme horaire collectif mensuel. À creuser si c'était la bonne réponse...
+
+![](./medias/CEA.png)
+
+
 ## 2024-12-21
 Adhésion CEA
 - Pas de convention cllective choisie
