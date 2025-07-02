@@ -18,10 +18,10 @@ Là on a déclaré 75% d'un SMIC, donc 1351 euros pour 113 heures.
 
 **En images**
 
-![](./medias/volet social 1.png)
-![](./medias/volet social 2.png)
-![](./medias/volet social 3.png)
-![](./medias/volet social 4.png)
+![](./medias/volet-social-1.png)
+![](./medias/volet-social-2.png)
+![](./medias/volet-social-3.png)
+![](./medias/volet-social-4.png)
 
 ## 2025-04-24
 
